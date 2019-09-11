@@ -61,3 +61,6 @@ typings/
 .next
 /.idea/
 /nodejs-mongo-fun.iml
+
+# webpack stuff
+/dist/
